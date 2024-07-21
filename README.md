@@ -7,14 +7,14 @@ EirUI is a pfUI based 1.12 AddOns compilation
 **Install Guide:**
 * Backup your own Interface & WTF folders, you can create and put them in a **Ui_Backup** folder or smth.
 
-> * Extract Interface & WTF folders from EirUI zip.
+* Extract Interface & WTF folders from EirUI zip.
 >  * Grab the** Config.wtf from your Ui_Backup** folder and paste it into EirUI's WTF. This is to preserve your sound, graphics, etc... settings.
 
-> * Replace **bolded** folder names with those in your **Ui_Backup**:
+* Replace **bolded** folder names with those in your **Ui_Backup**:
 >  * WTF > Account > **account_name_here** > **server_name_here** > **character_name_here**
 >  * for example : WTF > Account > MyAccount > Nordanaar > MyCharacter
 
-> * To preserve your macros, bindings and **pfQuest**, copy these files from your **Ui_Backup**:
+* To preserve your macros, bindings and **pfQuest**, copy these files from your **Ui_Backup**:
 >  * WTF > Account: **bindings-cache.wtf**, **macros-cache.txt**, **macros-local.txt**
 >  * WTF > Account > *Server *> *Character*: **bindings-cache.wtf**, **macros-cache.txt**, **macros-local.txt**
 >  * WTF > Account > SavedVariables: all files starting with pfQuest
