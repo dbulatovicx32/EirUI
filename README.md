@@ -32,7 +32,7 @@ If you dont like hiding buff frames for example, simply remove **pfBuffFrame**, 
 
 **Hide TWT and SDPS buttons**
 ```lua
-/run local frames = {TWTMainSettingsButton, TWTMainLockButton, TWTMainCloseButton} for _, f in pairs(frames) do if f:IsShown() then f:Hide() else f:Show() end end
+/run local frames = {TWTMainSettingsButton, TWTMainLockButton, TWTMainCloseButton, ShaguDPSReset, ShaguDPSDamage, ShaguDPSAnnounce, ShaguDPSOverall} for _, f in pairs(frames) do if f:IsShown() then f:Hide() else f:Show() end end
 ```
 
 **Hide Minimap, Buffs and Chat**
